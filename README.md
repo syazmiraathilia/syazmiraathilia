@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Syazmira Athilia! 👋
 
-<!--
-**syazmiraathilia/syazmiraathilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year **Computational Data Analytics** student at UTHM (CGPA 3.74). I am passionate about turning raw data into actionable business insights and building predictive models. 
 
-Here are some ideas to get you started:
+🎯 **Currently seeking:** A 1-year Data Analyst / Data Scientist internship (starting Feb 2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+*   **Data Analysis:** Python (Pandas, NumPy, Scikit-Learn), R, SAS
+*   **Database:** SQL (MySQL)
+*   **Visualization:** Power BI, SAS Viya, R Shiny
+*   **Other:** Git, Jupyter Notebook
+
+#### 🚀 Featured Projects
+*   **[Project 1 Name](Link to repo):** Built a machine learning model in R to predict traffic volume.
+*   **[Project 2 Name](Link to repo):** Created an interactive Road Safety Dashboard in Power BI.
+
+#### 📫 Connect with me:
+*   [LinkedIn](https://www.linkedin.com/in/syazmiraathilia)
+*   Email: syazmira2345@gmail.com
