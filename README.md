@@ -13,11 +13,14 @@ I am a final-year **Computational Data Analytics** student at UTHM (CGPA 3.74). 
 #### 🚀 Featured Projects
 #### 🚀 Featured Projects
 
+#### 🚀 Featured Projects
+
 *   **[ROADSAFE PAHANG: Road Safety Analytics](https://github.com/syazmiraathilia/Road-Safety-Analytics-Dashboard):** Built an interactive Power BI dashboard and an AI prediction model in R (83% accuracy) to identify high-risk accident zones.
 *   **[Metro Traffic Volume Prediction](https://github.com/syazmiraathilia/Metro-Interstate-Traffic-Volume-Prediction-Pattern-Analysis):** Compared Supervised, Unsupervised, and Deep Learning models in R. Random Forest achieved an R² of 0.93.
 *   **[Telco Customer Churn Analysis](https://github.com/syazmiraathilia/Telco-Customer-Churn-Analysis-SAS):** Analyzed churn drivers using SAS Viya, identifying $139K in revenue loss and recommending retention strategies.
 *   **[Selangor Fertility Time Series](https://github.com/syazmiraathilia/Selangor-Fertility-Rate-Time-Series-Analysis-ARIMA-):** Applied ARIMA modeling in SAS to forecast fertility trends up to 2035.
 *   **[AI Flood Detection System](https://github.com/syazmiraathilia/AI-Flood-Detection-and-Alert-System):** (In Development) Building a cross-faculty pipeline to ingest live IoT telemetry for real-time flood alerts.
+*   **[CineQuest: Movie Management System](https://github.com/syazmiraathilia/cinequest-moviecatalog):** Developed a GUI-based Python application using Data Structures and Algorithms for efficient movie searching and recommendations.
   
 #### 📫 Connect with me:
 *   [LinkedIn](https://www.linkedin.com/in/syazmiraathilia)
